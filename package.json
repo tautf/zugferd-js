@@ -1,0 +1,16 @@
+{
+  "name": "zugferd",
+  "version": "0.1.0",
+  "description": "JS implementation of mustangproject",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Taut <flo@tautf.de>",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0",
+    "husky": "^8.0.2"
+  }
+}
